@@ -1,0 +1,11 @@
+
+> erc721-starter-contracts@1.0.0 deploy /home/adam/opensea-creatures
+> truffle deploy --network ropsten
+
+
+Compiling your contracts...
+===========================
+> Everything is up to date, there is nothing to compile.
+
+Network up to date.
+Network up to date.
